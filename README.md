@@ -1,2 +1,1 @@
-# modified-README
-This just for exercise purpose
+modified echo file
